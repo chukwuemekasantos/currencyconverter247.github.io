@@ -1,0 +1,91 @@
+
+
+
+
+body{
+	background-color: #ccc;
+}
+
+#header{
+
+		width: auto;
+		height: 79px;
+		background-color: #034f84;
+		box-shadow:5px 0px 19px #fff;
+}
+
+#sitename{
+
+	float:left;
+	padding-left: 20px;
+	color: #ccc;
+	font-size: 22px;
+}
+
+#title{
+
+	margin-top: 150px;
+	color: #034f84;
+}
+
+#number{
+	width: 50px;
+	height: 36.5px;
+	padding-left: 22.5px;
+	margin-right: 10px;
+}
+
+#result{
+	width: 200px;
+	height: 36.5px;
+	margin-right: 10px;
+	padding-left: 10px;
+}
+
+#currency1{
+	width: 90px;
+	height: 40px;
+	padding-left: 22.5px;
+	margin-right: 10px;
+}
+
+
+#currency2{
+	width: 90px;
+	height: 40px;
+	padding-left: 22.5px;
+	margin-left: 10px; 
+}
+
+
+
+#convert{
+	width: 90px;
+	height: 40px;
+	margin-left: 10px; 
+}
+
+
+#converter{
+margin-top: ;
+margin-bottom:270px ;
+padding-top: 20px;
+
+
+}
+
+
+#convert{
+background-color: #034f84;
+border-style: none;
+color: #ccc;
+}
+
+#footer{
+
+		width: auto;
+		height: 50px;
+		background-color: #36486b;
+		box-shadow:5px 0px 19px #fff;
+
+}
